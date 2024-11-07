@@ -1,0 +1,218 @@
+.inbox1{
+    /*background-color: lightseagreen;*/
+    height: 50px;
+    margin: 20px 100px;
+    font-family: calibri;
+}
+button.b1{
+    background-color: rgb(8, 171, 189);
+    border: none;
+    color: white;
+    padding: 10px 25px;
+    border-radius: 50px;
+}
+section.sec1{
+    background-color: white;
+}
+p.p1{
+    text-align: center;
+    font-size: 18px;
+}
+section.sec2{
+    background-color: rgb(139, 8, 8);
+}
+.inbox2{
+    height: 30px;
+    color: white;
+    font-family: calibri;
+}
+.inbox3{
+    text-align: center;
+    font-size: 30px;
+    font-family: calibri;
+}
+p.p2{
+    font-size: 18px;
+}
+.inbox4{
+    margin: 10px;
+    padding: 55px 0px;
+    height: 300px;
+}
+section.sec3{
+    background-image: url(design2.jpg);
+    background-size: cover;
+}
+section.sec4{
+    margin: 40px 0px;
+}
+.inbox5{
+    text-align: center;
+    font-family: calibri;
+}
+.inbox6{
+    text-align: center;
+    font-family: calibri;
+}
+.inbox7{
+    text-align: center;
+    font-family: calibri;
+}
+.inbox8{
+    text-align: center;
+    font-family: calibri;
+}
+.inbox9{
+    margin: 0px 35px;
+    padding: 25px 30px;
+    color: white;
+    font-size: 24px;
+    font-family: calibri;
+}
+/*.line{
+    width: 2px;
+    height: 1px;
+    text-align: justify;
+}*/
+.inbox10{
+    margin: 10px 15px;
+    padding: 5px;
+    float: left;
+}
+.inbox11{
+    margin: 10px 15px;
+    padding: 5px;
+    float: left;
+}
+.inbox12{
+    margin: 10px 15px;
+    padding: 5px;
+    float: left;
+}
+.inbox13{
+    margin: 10px 15px;
+    padding: 5px;
+    float: left;
+}
+.row1{
+    text-align: center; 
+}
+section.sec5{
+    background-color: rgb(36, 98, 117);
+}
+.inbox14{
+    text-align: center;
+    margin: 25px;
+    font-family: calibri;
+}
+.inbox15{
+    text-align: center;
+    padding: 25px;
+    font-family: calibri;
+}
+h1.hh{
+    font-size: 32px;
+}
+p.pp{
+    font-size: 16px;
+}
+.inbox16{
+    float: left;
+    text-align: center;
+    margin: 10px 15px;
+    padding: 5px;
+    font-size: 14px;
+    font-family: calibri;
+}
+.inbox17{
+    float: left;
+    text-align: center;
+    margin: 10px 15px;
+    padding: 5px;
+    font-size: 14px;
+    font-family: calibri;
+}
+.inbox18{
+    float: left;
+    text-align: center;
+    margin: 10px 15px;
+    padding: 5px;
+    font-size: 14px;
+    font-family: calibri;
+}
+section.sec6{
+    background-color: white;
+}
+h5.hhh{
+    font-size: 12px;
+    font-weight: bolder;
+}
+section.sec7{
+    background-image: url(S2.jpg);
+    background-size: cover;
+}
+.inbox19{
+    /*margin: 10px;*/
+    padding: 55px 0px;
+    height: 450px;
+}
+.inbox20{
+    margin: 25px;
+    padding: 100px 0px;
+    text-align: center;
+    text-align: left;
+    font-family: calibri;
+}
+span.er{
+    text-decoration: underline;
+    /*color: brown;*/
+}
+span.fr{
+    text-decoration: underline;
+    color: brown;
+}
+h2.h2{
+    font-size: 32px;
+}
+.row2{
+    text-align: center;
+}
+.inbox21{
+    margin: 35px;
+    padding: 25px;
+    font-size: 24px;
+    font-family: calibri;
+}
+.inbox22,.inbox23,.inbox24,.inbox25,.inbox26,.inbox27{
+    text-align: center;
+    font-family: calibri;
+}
+p.ppp{
+    font-size: 12px;
+}
+section.sec8{
+    padding: 25px;
+}
+.inbox28{
+    font-size: 36px;
+    text-align: center;
+    padding: 25px;
+}
+h1.hd{
+    font-family: Segoe Script;
+    color: white;
+    font-style: italic;
+}
+section.sec9{
+    background-color: rgb(36, 98, 117);
+}
+.inbox29{
+    font-size: 12px;
+    padding: 15px;
+    text-align: center;
+    font-family: calibri;
+}
+span.sp1{
+    font-weight: bold;
+    font-size: 20px;
+}
